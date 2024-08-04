@@ -1,4 +1,4 @@
-# HTML_CodeSniffer
+.# HTML_CodeSniffer
 
 ## What is HTML_CodeSniffer?
 
